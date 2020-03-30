@@ -1,0 +1,17 @@
+{
+  "name": "winston-sentry-transport",
+  "version": "1.0.0",
+  "description": "Transport for Winston logger that allows to use Sentry to capture unhandled exceptions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Timur Gilauri",
+    "email": "timur.gilauri@hotmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/timur-gilauri/winston-sentry-transport"
+  }
+}
